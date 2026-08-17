@@ -4,7 +4,7 @@ Product-focused landing page prototype for the MTX child welfare product suite.
 
 ## Positioning
 
-The site presents MTX Gov Child Welfare as a reusable, modular product foundation rather than a collection of implementation services. It distinguishes the two confirmed implementation contexts from recommended product and agency performance measures.
+The site presents MTX Gov Child Welfare as a reusable, modular product foundation rather than a collection of implementation services. It connects recurring child welfare technology constraints to specific product capabilities and distinguishes product scope from agency outcome measures.
 
 ## Local preview
 
