@@ -17,3 +17,5 @@ Open `http://localhost:4173` from this directory.
 ## Publishing
 
 The repository is configured for GitHub Pages through the workflow in `.github/workflows/pages.yml`.
+
+For a new repository, enable Pages once in **Settings → Pages** and select **GitHub Actions** as the source. Then open **Actions → Deploy static site to Pages** and run the workflow. Later pushes to `main` deploy automatically.
