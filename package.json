@@ -1,0 +1,9 @@
+{
+  "name": "mtx-gov-child-welfare-static",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "mkdir -p dist && cp index.html styles.css script.js .nojekyll dist/"
+  }
+}
